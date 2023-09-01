@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EnfasisRGB
+- 👀 I’m interested in understand all of programming and to be a teamate.
+- 🌱 I’m currently learning programming front-end
